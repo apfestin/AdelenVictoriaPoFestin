@@ -1,4 +1,4 @@
-Hello!
+Hello !
 This is file2.txt.
 Created by Adelen Victoria Po Festin.
 On July 3, 2012.
