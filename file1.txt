@@ -1,0 +1,5 @@
+Hello!
+This is file1.txt.
+Created by Adelen Victoria Po Festin.
+On July 3, 2012.
+5 lines at initial commit :)
